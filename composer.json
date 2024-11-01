@@ -1,0 +1,15 @@
+{
+    "name": "woocommerce-juspay-express-checkout",
+    "type": "wordpress-plugin",
+    "description": "custom wordpress plugin",
+    "authors": [
+        {
+            "name": "Shazzad Hossain Khan",
+            "email": "hello@shazzad.me"
+        }
+    ],
+    "require": {
+		"juspay/expresscheckout-php-sdk": "1.0.3"
+	},
+    "minimum-stability": "stable"
+}
